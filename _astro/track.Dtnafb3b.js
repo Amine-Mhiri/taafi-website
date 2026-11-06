@@ -1,0 +1,1 @@
+function e(e,t,n){try{window.plausible;let r=t||n?{...t?{props:t}:{},...n?{revenue:n}:{}}:void 0;window.plausible?.(e,r)}catch{}}export{e as t};

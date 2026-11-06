@@ -1,0 +1,1 @@
+import{t as e}from"./track.Dtnafb3b.js";document.addEventListener(`toggle`,t=>{let n=t.target;n instanceof HTMLDetailsElement&&n.open&&n.dataset.faqIndex&&e(`faq_open`,{page:location.pathname,q:Number(n.dataset.faqIndex)})},!0);

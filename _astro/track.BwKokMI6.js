@@ -1,1 +1,0 @@
-function e(e,t){try{window.plausible?.(e,t?{props:t}:void 0)}catch{}}export{e as t};
