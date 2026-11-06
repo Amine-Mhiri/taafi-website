@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Taafi Within//Taafi Sundays//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-29-relationships@alaadakrouri.com
+DTSTAMP:20261106T031107Z
+DTSTART:20261129T140000Z
+DTEND:20261129T153000Z
+SUMMARY:Relationships got hard… or did we make them hard?
+DESCRIPTION:An honest evening about love\, friendship and family\, and the 
+ patterns we carry into every relationship.\n\nhttps://amine-mhiri.github.i
+ o/taafi-website/taafi-sundays/2026-11-29-relationships/
+LOCATION:Dubai (venue soon) or online
+URL:https://amine-mhiri.github.io/taafi-website/taafi-sundays/2026-11-29-re
+ lationships/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Relationships got hard… or did we make them hard?
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
