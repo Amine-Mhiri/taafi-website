@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-11-29-relationships@alaadakrouri.com
-DTSTAMP:20261111T214458Z
+DTSTAMP:20261112T171913Z
 DTSTART:20261129T140000Z
 DTEND:20261129T153000Z
 SUMMARY:العلاقات بقت صعبة… ولا إحنا اللي مصع
@@ -14,7 +14,7 @@ DESCRIPTION:أمسية صادقة عن الحب والصحاب والعيل
  ة — وعن الأنماط اللي بناخدها معانا في كل 
  علاقة.\n\nhttps://amine-mhiri.github.io/taafi-website/ar/taafi-sunday
  s/2026-11-29-relationships/
-LOCATION:دبي (المكان قريب) أو أونلاين
+LOCATION:دبي، الإمارات، أو أونلاين
 URL:https://amine-mhiri.github.io/taafi-website/ar/taafi-sundays/2026-11-29
  -relationships/
 BEGIN:VALARM
